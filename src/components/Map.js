@@ -22,7 +22,6 @@ const Map = ({ center, eventData, selectedOption }) => {
   // Index of event data by category ID
   const eventDataIndex = {
     8: 'WildFires',
-    10: 'Severe Storms',
     12: 'Volcanoes',
     15: 'Sea and Lake Ice',
   }

@@ -54,7 +54,6 @@ const Search = () => {
         >
           <option value="All">All</option>
           <option value="Wildfires">Wildfires</option>
-          <option value="Severe Storms">Severe Storms</option>
           <option value="Volcanoes">Volcanoes</option>
           <option value="Sea and Lake Ice">Sea and Lake Ice</option>
         </select>
